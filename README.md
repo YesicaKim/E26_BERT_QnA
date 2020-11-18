@@ -6,7 +6,7 @@
         ![bert_base_pre_trained](https://user-images.githubusercontent.com/39249809/99486070-efd5ac80-29a6-11eb-83a3-bbf0f64766e4.png)
     - ***layer를 4에서 6으로 늘림: Pre-trained 1에서 맞추지 못한 경우를 Pre-trained 2에서 맞춘 경우***
         ![bert_pre_trained_1_2](https://user-images.githubusercontent.com/39249809/99486074-f106d980-29a6-11eb-88f0-a5da9461f433.png)
-    - ***multi-head attention 수를 4에서 8로 늘림: Pre-trained 1에서 맞추지 못한 경우를 Pre-trained 2에서 맞춘 경우***
+    - ***multi-head attention 수를 4에서 8로 늘림: Pre-trained 2에서 맞추지 못한 경우를 Pre-trained 3에서 맞춘 경우***
         ![bert_pre_trained_2_3](https://user-images.githubusercontent.com/39249809/99486076-f19f7000-29a6-11eb-82f0-824759ef870c.png)
         
 # (1) Base Model (Pre-training 없음)
